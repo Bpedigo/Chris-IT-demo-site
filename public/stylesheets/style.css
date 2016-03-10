@@ -1,0 +1,40 @@
+*{
+	position: relative;
+}
+
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  max-width: 85%;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.fill {
+	background-image: url("/static/images/compKids.jpg");
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+.main-footer {
+	width: 93%;
+	position: absolute;
+    bottom: 0;
+    padding: 10px;
+	background: linear-gradient(to top, gray, black);
+	color:white;
+}
+
+.space{
+  margin-top: 3em;
+}
+
+.box {
+  height:100px;
+  width:200px;
+  background-color: gray;
+  border-color: black;
+
+}
