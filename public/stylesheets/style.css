@@ -31,10 +31,11 @@ a {
   margin-top: 3em;
 }
 
-.box {
-  height:100px;
-  width:200px;
-  background-color: gray;
-  border-color: black;
-
+.centered {
+  
 }
+
+.gray {
+  background-color: #b8b6de;  
+}
+
